@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RadioButton</string>
+
+
+    <string name="texto1">Si</string>
+    <string name="texto2">No</string>
+    <string name="pregunta">¿Estudias en el itsta?</string>
+    <string name="ok">Aceptar</string>
+
+
+</resources>
