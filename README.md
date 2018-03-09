@@ -1,4 +1,4 @@
-# AppSaludo
+# RadioButton
 Proyecto "RadioButton", desarrollado en el curso "Curso de desarrollo android" impartido en el ITSTA
 
 
